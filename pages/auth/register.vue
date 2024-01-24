@@ -2,12 +2,12 @@
 import {defineComponent} from 'vue'
 
 export default defineComponent({
-name: "register"
+  name: "register"
 })
 </script>
 
 <template>
-  $END$
+
 </template>
 
 <style scoped>
