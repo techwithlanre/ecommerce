@@ -19,7 +19,7 @@ export default {
         <form action="" class="mt-10">
           <div>
             <TextInput labelText="Username" v-model="username" />
-            <TextInput labelText="Password" class="mt-4" v-model="password" />
+            <TextInput labelText="Password" class="mt-4" v-model="password" /> 
             <input type="submit" value="Login" class="mt-4 bg-[#38bdf8] px-5 py-2 rounded-lg w-full">
           </div>
         </form>
